@@ -6,7 +6,7 @@ def sum_of_digits(n):
 
 # the last line of the funcitons means
 # n%10 means the last digit at tenth position. n%10 of 112 is 2
-# n//10 means the last number excluded. n//10 of 112 is 11
+# n//10 means the last digit excluded. n//10 of 112 is 11
 # first i am gonna try n%10 and n//10 then i will call the funciton
 
 num=112
