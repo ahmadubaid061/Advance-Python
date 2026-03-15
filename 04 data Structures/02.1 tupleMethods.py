@@ -1,4 +1,4 @@
-#tuples are mutable
+#tuples are Immutable
 #so do not have much methods like lists
 
 #1 count(x) we can count appearance of an element in a tuple
