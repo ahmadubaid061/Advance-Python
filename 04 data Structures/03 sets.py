@@ -11,3 +11,9 @@ print(a)       #{1, 2, 3, 4, 5, 6, 7} duplicates are ignored and the set is sort
 
 for item in a:
     print(item)
+
+#Note : 
+#we cannot declare an empty set as "myset={}" because that will make it a dictionary 
+#an empty set can be declared by using the set keyword
+myset=set()
+print(myset)
