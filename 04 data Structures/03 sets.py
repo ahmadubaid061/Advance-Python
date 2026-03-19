@@ -16,4 +16,9 @@ for item in a:
 #we cannot declare an empty set as "myset={}" because that will make it a dictionary 
 #an empty set can be declared by using the set keyword
 myset=set()
+print(myset) #set()
+myset.add(99)
 print(myset)
+
+union=myset.union(a)
+print(union) #{1, 2, 99, 3, 4, 5, 6, 7}
