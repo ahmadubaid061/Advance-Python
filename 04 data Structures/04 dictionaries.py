@@ -12,3 +12,5 @@ print(myDict) #{'Name': 'Ubaid'}
 print(myDict.keys()) # prints all the keys
 print(myDict.values()) #prints all the values
 print(myDict.items())  #prints all keys along with corresponding values
+
+print(type(myDict)) #<class 'dict'>
