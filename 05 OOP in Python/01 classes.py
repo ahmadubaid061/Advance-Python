@@ -11,7 +11,7 @@ class student:
     recentQualification='FSc'
     
     #here comes the constructor( will be explained in next file)
-    def __init__(self,name,marks,location):
+    def __init__(self,name,marks,location): #the self keyword is necessary
         self.studentName=name
         self.studentMarks=marks
         self.studentCity=location
