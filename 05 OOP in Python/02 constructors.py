@@ -15,3 +15,6 @@ class student:
 #creating objects
 student1=student("Ubaid",11,3.5) #the constructor is called from here
 print(f"student Name: {student1.name} \n student rollNo: {student1.rollNo}\n student gpa: {student1.gpa}")
+#changing an attribute value
+student1.name="AlI"
+print(f"student Name: {student1.name} \n student rollNo: {student1.rollNo}\n student gpa: {student1.gpa}")
