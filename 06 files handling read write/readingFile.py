@@ -6,6 +6,7 @@
 "r" means readonly
 "w" means write only
 "r+ means read and write
+"a" means append
 '''
 
 mydetails=open("D:/python/Advance-Python/06 files handling read write/myfile.txt","r")
@@ -23,3 +24,5 @@ print(mydetails.readline())
 for line in mydetails.readlines():
     print(line)
     print()
+    
+mydetails.close() #closes the file 
