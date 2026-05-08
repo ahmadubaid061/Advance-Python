@@ -19,3 +19,5 @@ print(df.loc[0:2, ['name', 'age']]) #prints the name and age column of the first
 print(df.iloc[0]) #prints the first row of the dataframe using index position   
 print(df.iloc[0:2]) #prints the first 3 rows of the dataframe using index position
 print(df.iloc[0:2, [0, 2]]) #prints the name and age column of the first 3 rows of the dataframe using index position
+
+df.to_csv('data.csv', index=False) #exports the dataframe to csv format without index
