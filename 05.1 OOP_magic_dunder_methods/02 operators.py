@@ -1,4 +1,4 @@
-#in this file i will discuss operators like add,sub,mul,truediv
+#in this file i will discuss logical operators like add,sub,mul,truediv
 #boolean operators like greaterthan,lessthan,ge,le,
 
 class product:
