@@ -22,11 +22,6 @@ This repository serves as my personal learning journey through Python, documenti
 - **Data Import/Export**: Working with various file formats (Excel, CSV)
 - **Data Libraries**: Numpy, Pandas fundamentals
 
-### Projects
-
-- **Simple Calculator**: A basic calculator implementation using Python
-- **Topics Excel File**: Course topics tracking
-
 ## 🔗 Explore More
 
 ### 📊 [AI-Python Repository](https://github.com/ahmadubaid061/AI-Python)
