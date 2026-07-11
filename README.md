@@ -24,7 +24,7 @@ This repository serves as my personal learning journey through Python, documenti
 
 ## 🔗 Explore More
 
-### 📊 [AI-Python Repository](https://github.com/ahmadubaid061/AI-Python)
+### 📊 [AI-Python Repository](https://github.com/ahmadubaid061/Al-Python)
 
 If you're interested in **Artificial Intelligence and Machine Learning**, check out my AI-Python repository. It covers:
 
@@ -132,7 +132,7 @@ This repository includes:
 Feel free to explore, fork, or use these repositories for your own learning:
 
 - **Main Python Learning**: [Advance-Python](https://github.com/ahmadubaid061/Advance-Python)
-- **AI & ML Focus**: [AI-Python](https://github.com/ahmadubaid061/AI-Python)
+- **AI & ML Focus**: [AI-Python](https://github.com/ahmadubaid061/Al-Python)
 - **Web Development**: [Flask-Python](https://github.com/ahmadubaid061/Flask_Python)
 
 ## 📝 License
